@@ -1,6 +1,6 @@
 # Fashion_MNIST Logistic Regression
 
-Trained a classifier using stochastic gradient descent on MNIST-Fasion dataset<br/>
+Trained a binary classifier using stochastic gradient descent on MNIST-Fasion dataset<br/>
 (https://github.com/zalandoresearch/fashion-mnist).
 
 Everything was implemented using Numpy.
