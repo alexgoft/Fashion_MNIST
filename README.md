@@ -12,5 +12,6 @@ __Train Error (Cross entropy):__ <br/>
 
 __Confusion Matrix__:
 
-[992   8]<br/>
-[ 21 979]
+| 992 | 8   |
+|-----|-----|
+| 21  | 979 |
