@@ -4,14 +4,3 @@ Trained a (currently) binary classifier using stochastic gradient descent on MNI
 (https://github.com/zalandoresearch/fashion-mnist).
 
 Everything was implemented using Python and Numpy *only*.
-
-### Stats for batches of 20 and 10000 iterations:
-
-__Train Error (Cross entropy):__ <br/>
-0.013
-
-__Confusion Matrix__:
-
-| 992 | 8   |
-|-----|-----|
-| 21  | 979 |
